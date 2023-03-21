@@ -1,6 +1,6 @@
-# weather_task
+# weather
 
-A new Flutter project.
+Weather App Using Open Weather Api , Flutter, GetX
 
 ## Getting Started
 
